@@ -1,0 +1,10 @@
+# Build output
+target/
+
+# macOS
+.DS_Store
+
+# IntelliJ (keep shared project settings, ignore personal ones)
+.idea/workspace.xml
+.idea/shelf/
+*.iml
